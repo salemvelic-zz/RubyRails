@@ -5,6 +5,7 @@ This is the sample application for
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+## Versions
 Ruby version: 2.4.0
 Rails version: 5.1.5
 
